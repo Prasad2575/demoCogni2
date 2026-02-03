@@ -1,2 +1,9 @@
-# demoCogni2.1
+clear# demoCogni2.1
+
+#teacher 
+prasad bidgar
+
+
+#std
+QA
 
